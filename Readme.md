@@ -1,3 +1,5 @@
+## Simple mailer code I had used to automate sending bulk emails to my peers
+
 * Open terminal and ensure it is in the directory of this folder.
 * When you run this code with python you should run it in this directory
 * Open the mailer.py code and change the content to your liking. 
